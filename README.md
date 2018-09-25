@@ -1,2 +1,2 @@
 # java-inside
-Labs de java-inside
+Ce git va stocker les différents labs de java-inside
