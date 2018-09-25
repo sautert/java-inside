@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="module-info.java" kind="src" path="labone/src/main/java/fr.umlv.javainside.labone"/>
+	<classpathentry excluding="module-info.java" kind="src" path="labone/src/test/java/fr.umlv.javainside.labone"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="labone/deps/org.apiguardian.api.jar"/>
+	<classpathentry kind="lib" path="labone/deps/org.junit.jupiter.api.jar"/>
+	<classpathentry kind="lib" path="labone/deps/org.junit.platform.commons.jar"/>
+	<classpathentry kind="lib" path="labone/deps/org.opentest4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
