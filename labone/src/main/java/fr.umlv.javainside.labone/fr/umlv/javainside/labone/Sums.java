@@ -14,7 +14,9 @@ public class Sums {
 	public static int streamSum(int limit) {
 		int ret = 0;
 		
-		
+		for (ret = 0; limit > 0; limit--) {
+			ret += limit;
+		}
 		System.out.println("streamSum : " + ret);
 		return (ret);
 	}
